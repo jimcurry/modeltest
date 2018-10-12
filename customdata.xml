@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bmtcustomdata><namespace name="visuals"><object name="[]"><property name="BMTFW_Layout_Version">long:15</property><property name="BMTFW_Layout"><![CDATA[string:[Business Layer].[CASE Counter To Counter]
+	dx=248,208
+	expanded=t
+	parent=Case Tables
+	x=10,234
+[Business Layer].[PD Lookup]
+	dx=150,136
+	expanded=t
+	parent=Case Tables
+	x=20,101
+[Business Layer].[PL Lookup]
+	dx=147,136
+	expanded=t
+	parent=Case Tables
+	x=20,160
+[Business Layer].[Case Tables]
+	c=9bdfc4
+	dx=268,452
+	expanded=t
+	parent=Business Layer
+	x=581,57
+[Business Layer].[Date Dimension]
+	dx=266,208
+	expanded=t
+	parent=Netezza Tables
+	x=10,57
+[Business Layer].[Location]
+	dx=205,208
+	expanded=t
+	parent=Netezza Tables
+	x=316,57
+[Business Layer].[Netezza Tables]
+	c=d8a77d
+	dx=531,275
+	expanded=t
+	parent=Business Layer
+	x=10,57
+[Business Layer]
+	view=0,0
+	zoom=1.000000
+[CASE].[PL Lookup]
+	dx=222,136
+	expanded=t
+	parent=CASE
+	x=20,42
+[CASE].[PD Lookup]
+	dx=224,136
+	expanded=t
+	parent=CASE
+	x=104,225
+[Store To Store Transfer].[Store To Store Transfer]
+	dx=228,208
+	expanded=t
+	parent=Store To Store Transfer
+	x=10,57
+[Store To Store Transfer]
+	c=9bdfc4
+	dx=248,275
+	expanded=t
+	parent=Presentation Layer
+	x=10,57
+[Presentation Layer]
+	view=0,0
+	zoom=1.000000
+[]
+	Notation=4
+	ShowGrid=1
+	Snap=1
+	font=Arial
+	lod=33
+	tc=323232
+	viewStyle=2
+[Case].[CALENDAR]
+	dx=233,208
+	expanded=t
+	parent=Case
+	x=10,591
+[Case].[Transaction Date]
+	dx=233,208
+	expanded=t
+	parent=Case
+	x=329,193
+[Case].[PD_LOOKUP]
+	dx=153,136
+	expanded=t
+	parent=Case
+	x=329,428
+[Case].[PL_LOOKUP]
+	dx=152,136
+	expanded=t
+	parent=Case
+	x=329,30
+[Case].[VW_COUNTER_TO_COUNTER]
+	dx=279,208
+	expanded=t
+	parent=Case
+	x=10,193
+[Case]
+	view=0,0
+	zoom=1.000000
+[Business Layer].[Standard Formatting]
+	dx=343,136
+	expanded=t
+	parent=Business Layer
+	x=10,594
+[Business Layer].[Audit Extract]
+	dx=229,208
+	expanded=t
+	parent=Business Layer
+	x=307,359
+[Business Layer].[Counter To Counter Extract]
+	dx=257,208
+	expanded=t
+	parent=Business Layer
+	x=10,359
+[Business Layer].[From Departments]
+	dx=194,100
+	expanded=t
+	parent=Business Layer
+	x=622,594
+[Business Layer].[Store To Store Transfer]
+	dx=228,208
+	expanded=t
+	parent=Business Layer
+	x=576,359
+[Business Layer].[Store To Store Transfer Errors]
+	dx=278,208
+	expanded=t
+	parent=Business Layer
+	x=889,57
+[Business Layer].[Stores]
+	dx=189,208
+	expanded=t
+	parent=Business Layer
+	x=393,594
+[Business Layer].[To Departments]
+	dx=174,100
+	expanded=t
+	parent=Business Layer
+	x=10,829
+[Business Layer].[Zones]
+	dx=141,100
+	expanded=t
+	parent=Business Layer
+	x=224,829
+]]></property></object></namespace></bmtcustomdata>
